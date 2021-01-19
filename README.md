@@ -1,2 +1,1 @@
-# Miscellaneous
-Various code from courses/smaller projects
+Various folders containing code from smaller projects. 
