@@ -1,1 +1,1 @@
-Various folders containing code from smaller projects / assignments (WIP). 
+Various code from smaller assignments / projects 
