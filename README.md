@@ -1,1 +1,2 @@
-Project / class folders with code and scripts. This repo is just a collection of some earlier projects found and is highly unstructured.
+Some random older code from school assignments/projects. Unstructured and incomplete (due to file loss), kept mostly for my own purpose.
+
