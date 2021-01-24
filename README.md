@@ -1,1 +1,1 @@
-Various code from smaller assignments / projects 
+Various code from some smaller school assignments / projects 
